@@ -38,7 +38,7 @@ I am Vishal Kumar Gupta, a BCA student and passionate learner, currently explori
 
 ## Contact
 - 📧 Email: vishalkumar4604@gmail.com
-- 💼 LinkedIn: (to be added soon)
+- 💼 LinkedIn: (www.linkedin.com/in/vishal-kumar-gupta-b15a4a2ba)
 - 🛠 GitHub: [dewishal-dotcom](https://github.com/devvishal-dotcom)
 
 ---
